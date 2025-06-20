@@ -4,7 +4,7 @@ This directory contains scripts used to simplify wet lab calculations.
 
 ---
 
-### `chooseYourOwnAdventure.py`
+### `ChooseYourOwnAdventure.py`
 - Originally was a flow chart the lab called "Choose your own adventure"
 - We would use FACS cell sorting to separate CD5+/CD19+ tumor B cells from CD19- non-tumor cells (germlines) before preparing for sequencing
 - After isolating these populations, the sequencing assays we could run were determined by the number of cells we had, and the needs of the specific project
